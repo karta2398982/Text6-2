@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">作業</string>
+    <string name="textview">成績</string>
+    <string name="hint_ethomework">作業成績</string>
+    <string name="hint_etexam">小考成績</string>
+    <string name="hint_etnote">平時成績</string>
+    <string name="hint_ettext">期末考成績</string>
+    <string name="submit">submit</string>
+    <string name="tvresult">成績表</string>
+    <string name="back">Back</string>
+
+</resources>
